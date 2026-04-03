@@ -29,7 +29,7 @@ export function Resume() {
               Download my resume to see a detailed overview of my education, skills, certifications, and project experience in networking and cybersecurity.
             </p>
             <a
-              href="/Irash_Resume.pdf"
+              href="https://github.com/Irash24/portfolio-Web/blob/main/Irash_Resume.pdf"
               download="Irash_Resume.pdf"
               className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-primary-600 bg-white hover:bg-slate-50 rounded-full transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1"
             >
